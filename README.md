@@ -7,10 +7,10 @@ Includes **Sign Up** and **Sign In** pages with basic client-side validation.
 
 ## 🌐 Live Demo
 - **Sign Up Page (Start Here):**  
-  https://suspect-911.github.io/auth-ui-signin-signup/
+  https://nageshl-12.github.io/auth-ui-signin-signup/
 
 - **Sign In Page:**  
-  https://suspect-911.github.io/auth-ui-signin-signup/SignIn.html
+  https://nageshl-12.github.io/auth-ui-signin-signup/SignIn.html
 
 
 ---
@@ -29,4 +29,4 @@ Includes **Sign Up** and **Sign In** pages with basic client-side validation.
 ### Run Locally
 1. Clone or download the repository
    ```bash
-   git clone https://github.com/SUSPECT-911/auth-ui-signin-signup
+   git clone https://github.com/nageshl-12/auth-ui-signin-signup
